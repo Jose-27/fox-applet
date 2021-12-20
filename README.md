@@ -1,5 +1,9 @@
 # fox-applet
 
+## UAT LINK
+```
+https://fox-applet.herokuapp.com/
+```
 ## Project setup
 ```
 npm install
